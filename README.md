@@ -4,3 +4,4 @@ This repo serves as a test for learning the following functions:
 - `git checkout`
 - `git pull` 
 - `git merge`
+- pull requests
